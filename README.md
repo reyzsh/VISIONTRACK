@@ -10,8 +10,6 @@ The project combines **Ultralytics YOLO11**, **ByteTrack**, **OpenCV**, and **St
 
 ![VISIONTRACK monitoring dashboard](assets/dashboard-preview.png)
 
-> The screenshot above is loaded from `assets/dashboard-preview.png`. Make sure your screenshot has this exact filename, including the extension and capitalization.
-
 ## Features
 
 - Real-time object detection from a local webcam using YOLO11 nano (`yolo11n.pt`)
